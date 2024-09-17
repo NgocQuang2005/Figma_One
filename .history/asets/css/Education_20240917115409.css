@@ -475,11 +475,6 @@ a > .active {
   background-color: #ffb900;
   color: #fff;
 }
-@media screen and (max-width: 768px) {
-  .ourpopular {
-    margin-top: 0px;
-  }
-}
 
 /* 4 */
 
@@ -952,6 +947,11 @@ a > .active {
 @media (max-width: 480px) {
   .features {
     padding: 15px;
+  }
+
+  .images__fe .images__fe--item img {
+    width: 100%;
+    height: auto;
   }
 
   .learner h2 {
