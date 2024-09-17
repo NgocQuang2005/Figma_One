@@ -416,7 +416,7 @@ a > .active {
 
   .btn__showmode button {
     font-size: 14px;
-    padding: 12px 24px; /* Giảm padding cho màn hình rất nhỏ */
+    padding: 12px;
   }
 
   .item-contun h2 {

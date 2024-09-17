@@ -348,7 +348,7 @@ a > .active {
 
   .btn__showmode button {
     margin-bottom: 16px;
-    width: auto;
+    width: 100%;
   }
 
   .sum__resent-item {
@@ -383,8 +383,8 @@ a > .active {
   }
 
   .btn__showmode button {
-    padding: 15px 30px; /* Điều chỉnh padding cho màn hình nhỏ */
-    width: auto;
+    width: 100%;
+    padding: 15px;
   }
 
   .item-contun h2 {
@@ -416,7 +416,7 @@ a > .active {
 
   .btn__showmode button {
     font-size: 14px;
-    padding: 12px 24px; /* Giảm padding cho màn hình rất nhỏ */
+    padding: 12px;
   }
 
   .item-contun h2 {
